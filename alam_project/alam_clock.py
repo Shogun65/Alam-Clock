@@ -3,7 +3,7 @@ import time
 import sys
 import pygame
 pygame.mixer.init()
-alam_sound="alam_project\\alam.wav"
+alam_sound="Alam-Clock\\alam_project\\alam.wav"
 
 def main()-> None:
     while True:
