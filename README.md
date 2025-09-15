@@ -22,8 +22,9 @@ A simple Python-based alarm clock that allows you to set a specific time and pla
 Install `pygame` using pip if not already installed:
 
 ```bash
-pip install pygame
+   pip install pygame
+---
 
-## Clone this repository:
-   ```bash
+## Clone this repository
+```bash
   git clone https://github.com/Shogun65/Alam-Clock.git
